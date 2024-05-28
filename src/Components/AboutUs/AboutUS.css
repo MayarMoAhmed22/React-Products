@@ -1,0 +1,16 @@
+.fe {
+  background-color: #a91d3a;
+  height: 80vh;
+}
+.container2 {
+  color: #eeeeee;
+  width: 600px;
+  transform: translateX(10%);
+}
+p {
+  font-size: 15pt;
+}
+h1{
+    font-family: cursive;
+    font-size: 25pt;
+}
